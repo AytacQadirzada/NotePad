@@ -79,7 +79,7 @@ const useStyles = createUseStyles({
     },
     search:{
         width: '400px',
-        height: '25px',
+        height: '35px',
         borderRadius: '5px',
         border: '1px solid #7E57C2',
         padding: '5px',
